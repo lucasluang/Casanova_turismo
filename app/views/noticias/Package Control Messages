@@ -1,0 +1,41 @@
+Package Control Messages
+========================
+
+EJS 2
+-----
+
+  Thanks for installing EJS 2 :)
+  
+  Here are some tips to help you get started with this package:
+  
+  
+  ### Color Scheme
+  
+  EJS 2 comes with the "Dracula EJS" color scheme which you can select from:
+  `Preferences` -> `Color Scheme` -> `EJS 2`.
+  
+  Oceanic Next (https://github.com/voronianski/oceanic-next-color-scheme) is also a
+  good color scheme for EJS that works right out of the box.
+  
+  
+  ### Setting the default syntax
+  
+  By default, files with the extension `.ejs` are opened with the `EJS (<% %>)` syntax.
+  
+  If you'd like to open files with a different extension as EJS or you want to use delimiters
+  other than "<% %>", follow these steps to set the default EJS syntax for an extension:
+  
+  1. Open an EJS file
+  2. Select `View` from the menu
+  3. Then `Syntax` -> `Open all with current extension as...` -> `EJS 2` -> `EJS (<delimiter>)`
+  4. Repeat this for each extension you want to open as EJS
+  
+  This package includes syntax definitions for the following additional delimiters: `<? ?>`, `<$ $>`, `<@ @>`.
+  
+  
+  ### Snippets
+  
+  In the HTML scope:
+  
+  + `if`+`TAB` - Inserts EJS `if` statement
+  + `for`+`TAB` - Inserts EJS `for` loop
